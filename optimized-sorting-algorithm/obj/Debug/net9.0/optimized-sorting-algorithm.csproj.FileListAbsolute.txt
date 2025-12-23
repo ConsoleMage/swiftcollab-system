@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Data Structures and Algorithms Project\optimized-sorting-algorithm\bin\Debug\net9.0\optimized-sorting-algorithm.exe
+C:\Users\Admin\Desktop\Data Structures and Algorithms Project\optimized-sorting-algorithm\bin\Debug\net9.0\optimized-sorting-algorithm.deps.json
+C:\Users\Admin\Desktop\Data Structures and Algorithms Project\optimized-sorting-algorithm\bin\Debug\net9.0\optimized-sorting-algorithm.runtimeconfig.json
+C:\Users\Admin\Desktop\Data Structures and Algorithms Project\optimized-sorting-algorithm\bin\Debug\net9.0\optimized-sorting-algorithm.dll
+C:\Users\Admin\Desktop\Data Structures and Algorithms Project\optimized-sorting-algorithm\bin\Debug\net9.0\optimized-sorting-algorithm.pdb
+C:\Users\Admin\Desktop\Data Structures and Algorithms Project\optimized-sorting-algorithm\obj\Debug\net9.0\optimized-sorting-algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Data Structures and Algorithms Project\optimized-sorting-algorithm\obj\Debug\net9.0\optimized-sorting-algorithm.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Data Structures and Algorithms Project\optimized-sorting-algorithm\obj\Debug\net9.0\optimized-sorting-algorithm.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Data Structures and Algorithms Project\optimized-sorting-algorithm\obj\Debug\net9.0\optimized-sorting-algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Data Structures and Algorithms Project\optimized-sorting-algorithm\obj\Debug\net9.0\optimized-sorting-algorithm.dll
+C:\Users\Admin\Desktop\Data Structures and Algorithms Project\optimized-sorting-algorithm\obj\Debug\net9.0\refint\optimized-sorting-algorithm.dll
+C:\Users\Admin\Desktop\Data Structures and Algorithms Project\optimized-sorting-algorithm\obj\Debug\net9.0\optimized-sorting-algorithm.pdb
+C:\Users\Admin\Desktop\Data Structures and Algorithms Project\optimized-sorting-algorithm\obj\Debug\net9.0\optimized-sorting-algorithm.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Data Structures and Algorithms Project\optimized-sorting-algorithm\obj\Debug\net9.0\ref\optimized-sorting-algorithm.dll
