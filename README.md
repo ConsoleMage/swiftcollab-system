@@ -2,6 +2,8 @@
 
 This is the peer-graded assignment for "Data Structures and Algorithms," the tenth course in a 12-course series in the Microsoft Full-Stack Developer Professional Certificate program.
 
+For this project, you will submit your optimized and debugged implementations for several key algorithms. Throughout the previous four activities, you refined a binary tree structure, improved a task scheduling system, optimized sorting performance, and debugged task execution logic using Microsoft Copilot. This submission consolidates all your work for review and feedback.
+
 ## Introduction
 
 ## Activity 1: Using Microsoft Copilot to Generate and Refine Integration Code
