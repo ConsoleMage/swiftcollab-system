@@ -6,10 +6,10 @@ For this project, you will submit your optimized and debugged implementations fo
 
 ## Introduction
 
-## Activity 1: Using Microsoft Copilot to Generate and Refine Integration Code
-## Activity 1: Using Microsoft Copilot to Generate and Refine Integration Code
-## Activity 1: Using Microsoft Copilot to Generate and Refine Integration Code
-## Activity 1: Using Microsoft Copilot to Generate and Refine Integration Code
+## Activity 1: Hands-On Microsoft Copilot Code Generation - Activity
+## Activity 2: Applying Microsoft Copilot Generated Algorithms in Real-World Contexts
+## Activity 3: Performance Analysis and Refinement
+## Activity 4: Optimizing Data Structures With the LLM
 
 (5 pts) Did you submit an optimized binary tree implementation?
 
