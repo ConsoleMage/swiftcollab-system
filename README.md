@@ -6,6 +6,12 @@ For this project, you will submit your optimized and debugged implementations fo
 
 ## Introduction
 
+SwiftCollab, a growing collaboration and workflow automation platform, helps teams manage tasks and projects. As the platform scales, the task assignment system has experienced slow performance, making it difficult to retrieve and assign tasks efficiently.
+
+The engineering team has identified that the binary tree data structure used for task prioritization is inefficient and needs optimization. You have been assigned to analyze and refine the binary tree implementation, ensuring faster task retrieval and processing.
+
+To assist in this optimization, you will use an LLM to suggest improvements, ensuring the code is efficient, scalable, and meets performance expectations.
+
 ## Activity 1: Activity: Hands-On Microsoft Copilot Code Generation
 
 <img width="1834" height="1206" alt="Untitled" src="https://github.com/user-attachments/assets/1b8aded7-738f-492b-9a00-bf95460232fb" />
