@@ -14,8 +14,8 @@ To assist in this optimization, you will use an LLM to suggest improvements, ens
 
 ## Activity 1: Activity: Hands-On Microsoft Copilot Code Generation
 
-<img width="1834" height="1206" alt="Untitled" src="https://github.com/user-attachments/assets/1b8aded7-738f-492b-9a00-bf95460232fb" />
-<img width="1835" height="1206" alt="Untitledddd" src="https://github.com/user-attachments/assets/49a2b567-ad31-47b6-829d-cd49b86bfac8" />
+<img width="1837" height="1208" alt="Untitled" src="https://github.com/user-attachments/assets/7f7fd1a7-16c2-4441-a934-6cc73e19e0b6" />
+<img width="1837" height="1208" alt="Untitledddd" src="https://github.com/user-attachments/assets/297e4a11-bcba-4e26-8e94-b18d8331c297" />
 
 ## Activity 2: Applying Microsoft Copilot Generated Algorithms in Real-World Contexts
 ## Activity 3: Performance Analysis and Refinement
