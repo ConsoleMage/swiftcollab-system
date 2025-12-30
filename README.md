@@ -17,21 +17,21 @@ To assist in this optimization, you will use an LLM to suggest improvements, ens
 <img width="1837" height="1208" alt="Untitled" src="https://github.com/user-attachments/assets/7f7fd1a7-16c2-4441-a934-6cc73e19e0b6" />
 <img width="1837" height="1208" alt="Untitledddd" src="https://github.com/user-attachments/assets/297e4a11-bcba-4e26-8e94-b18d8331c297" />
 
+(5 pts) Did you submit an optimized binary tree implementation?
+
+> Yes. You can view it at https://github.com/ConsoleMage/inventory-hub.
+
 ## Activity 2: Applying Microsoft Copilot Generated Algorithms in Real-World Contexts
 
 <img width="1837" height="1208" alt="Untitled" src="https://github.com/user-attachments/assets/af8af986-9dc2-456d-8c93-c1fc23246e9f" />
 <img width="1837" height="1208" alt="Untitledddd" src="https://github.com/user-attachments/assets/d2d889a2-c6aa-4108-b51a-2bb38ff6cadb" />
 
-## Activity 3: Performance Analysis and Refinement
-## Activity 4: Optimizing Data Structures With the LLM
-
-(5 pts) Did you submit an optimized binary tree implementation?
-
-> Yes. You can view it at https://github.com/ConsoleMage/inventory-hub.
-
 (5 pts) Did you submit a refined task scheduling algorithm?
 
 > Yes. You can view it at https://github.com/ConsoleMage/inventory-hub.
+
+## Activity 3: Performance Analysis and Refinement
+## Activity 4: Optimizing Data Structures With the LLM
 
 (5 pts) Did you improve a sorting algorithm from O(n²) to O(n log n)?
 
