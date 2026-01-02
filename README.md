@@ -28,7 +28,7 @@ To assist in this optimization, you will use an LLM to suggest improvements, ens
 
 (5 pts) Did you submit a refined task scheduling algorithm?
 
-> Yes. You can view it at https://github.com/ConsoleMage/inventory-hub.
+> Yes. To assist in this optimization, I used an LLM to suggest improvements, ensuring the code is efficient, scalable, and meets performance expectations.
 
 ## Activity 3: Performance Analysis and Refinement
 ## Activity 4: Optimizing Data Structures With the LLM
