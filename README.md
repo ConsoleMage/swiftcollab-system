@@ -31,18 +31,19 @@ To assist in this optimization, you will use an LLM to suggest improvements, ens
 > Yes. To assist in this optimization, I used an LLM to suggest improvements, ensuring the code is efficient, scalable, and meets performance expectations.
 
 ## Activity 3: Performance Analysis and Refinement
-## Activity 4: Optimizing Data Structures With the LLM
 
 (5 pts) Did you improve a sorting algorithm from O(n²) to O(n log n)?
 
-> Yes. You can view it at https://github.com/ConsoleMage/inventory-hub.
+> Yes. To assist in this optimization, I used an LLM to suggest improvements, ensuring the code is efficient, scalable, and meets performance expectations.
+
+## Activity 4: Optimizing Data Structures With the LLM
 
 (5 pts) Did you submit debugged and optimized task execution code?
 
-> Yes. You can view it at https://github.com/ConsoleMage/inventory-hub.
+> Yes. To assist in this optimization, I used an LLM to suggest improvements, ensuring the code is efficient, scalable, and meets performance expectations.
 
 (5 pts) Did you measure and document performance improvements for each task?
 
-> Yes. You can view it at https://github.com/ConsoleMage/inventory-hub.
+> Yes. The relevant documentation includes screenshots of the code, and the prompts to the LLM to generate the final optimized code. You can view them here https://github.com/ConsoleMage/swiftcollab-system
 
 (5 pts) Did you clearly explain how the LLM contributed to your improvements?
