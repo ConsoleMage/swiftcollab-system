@@ -32,6 +32,9 @@ To assist in this optimization, you will use an LLM to suggest improvements, ens
 
 ## Activity 3: Performance Analysis and Refinement
 
+<img width="1837" height="1208" alt="Untitled" src="https://github.com/user-attachments/assets/4f8ce62d-ec3c-4b8a-829c-fc3a405511ef" />
+<img width="1837" height="1208" alt="Untitledddd" src="https://github.com/user-attachments/assets/94954fbe-90d6-40e7-921f-6f75aee322f8" />
+
 (5 pts) Did you improve a sorting algorithm from O(n²) to O(n log n)?
 
 > Yes. To assist in this optimization, I used an LLM to suggest improvements, ensuring the code is efficient, scalable, and meets performance expectations.
