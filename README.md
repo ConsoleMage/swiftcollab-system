@@ -2,7 +2,7 @@
 
 This is the peer-graded assignment for "Data Structures and Algorithms," the tenth course in a 12-course series in the Microsoft Full-Stack Developer Professional Certificate program.
 
-AI-assisted development tools like Microsoft Copilot can streamline the implementation and optimization of complex algorithms. This module explores how Copilot enhances back-end efficiency by assisting in writing and optimizing data structures and algorithms in .NET Core. Learners will use Copilot to implement advanced algorithms like Dijkstra's shortest path and A* search, analyze AI-generated code for performance improvements, and complete a comprehensive optimization project. By leveraging Copilot, developers can refine their approach to algorithmic design and scalability.
+AI-assisted development tools like Microsoft Copilot can streamline the implementation and optimization of complex algorithms. This module explores how Copilot enhances back-end efficiency by assisting in writing and optimizing data structures and algorithms in .NET Core.
 
 ## Introduction
 
