@@ -53,3 +53,5 @@ To assist in this optimization, you will use an LLM to suggest improvements, ens
 > Yes. The relevant documentation includes screenshots of the code, and the prompts to the LLM to generate the final optimized code. You can view them here https://github.com/ConsoleMage/swiftcollab-system.
 
 (5 pts) Did you clearly explain how the LLM contributed to your improvements?
+
+The screenshots of the built-in AI chat window and the inline code comments provide reviewers with an explanation to help them understand my code and its inner workings.
